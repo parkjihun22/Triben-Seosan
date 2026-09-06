@@ -83,7 +83,7 @@ const FixIcon = ({ type }) => {
             <a
               id="phoneConsultation"
               className={styles.btn2}
-              href="tel:1688-1052"
+              href="tel:1533-8848"
             >
               <PiPhoneCallFill size={25} />
               <div>전화상담</div>
